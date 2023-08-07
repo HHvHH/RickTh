@@ -4,5 +4,5 @@ build:
 run:
   worker:
     command:
-      - python3 Dasthon.py
+      - python3 Rethon.py
 
